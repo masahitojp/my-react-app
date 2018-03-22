@@ -1,6 +1,6 @@
 import React from 'react';
-import Container from './Container';
-import Header from './Header';
+import {Container, Header} from './components';
+
 
 const App = () => (
   <Container>
